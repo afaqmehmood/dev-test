@@ -1,0 +1,27 @@
+production:
+  password: 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
+  theme_id: ""
+  store: adrian-dev-test.myshopify.com
+  ignore_files:
+    - sass/
+    - "*.scss"
+    - readme.md
+    - gulpfile.js
+    - package.json
+    - node_modules
+    - ".gitignore"
+    - config/settings_data.json
+development:
+  password: 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
+  theme_id: "123894464701"
+  store: adrian-dev-test.myshopify.com
+  timeout: 60s
+  ignore_files:
+    - sass/
+    - "*.scss"
+    - readme.md
+    - gulpfile.js
+    - package.json
+    - node_modules
+    - ".gitignore"
+    - config/settings_data.json
